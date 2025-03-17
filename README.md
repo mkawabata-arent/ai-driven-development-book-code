@@ -45,3 +45,12 @@
 ## ライセンス
 
 本リポジトリのコードはMIT Licenseの下で公開されています。
+
+# Chapter4-01
+
+```
+brew install bun
+cd templates/othello_template/
+bun install
+bun run dev
+```
